@@ -1,6 +1,8 @@
 # Requirements
 
-* Flask
+* NodeJS
 
-I think you should use an
-`<addr>` element here instead.
+Install [Node](http://nodejs.org/)
+
+* Flask
+`<pip install Flask>`
