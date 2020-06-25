@@ -11,3 +11,17 @@ Install [Node](http://nodejs.org/)
 * React
 
 `<npm install -g create-react-app>`
+
+# Usage
+
+**Step #1 :**
+
+* Clone the Repo.
+
+** Step #2 :**
+
+* Install the Requirements
+
+** Step #3 :**
+
+* Fire up the terminal, enter the "flackbackend" folder, and execute this piece of snippet : `<python main.py>`
