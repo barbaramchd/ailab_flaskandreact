@@ -18,10 +18,10 @@ Install [Node](http://nodejs.org/)
 
 * Clone the Repo.
 
-** Step #2 :**
+**Step #2 :**
 
 * Install the Requirements
 
-** Step #3 :**
+**Step #3 :**
 
 * Fire up the terminal, enter the "flackbackend" folder, and execute this piece of snippet : `<python main.py>`
