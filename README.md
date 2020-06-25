@@ -6,11 +6,11 @@ Install [Node](http://nodejs.org/)
 
 * Flask
 
-`<pip install flask>`
+`pip install flask`
 
 * React
 
-`<npm install -g create-react-app>`
+`npm install -g create-react-app`
 
 # Usage
 
@@ -24,4 +24,4 @@ Install [Node](http://nodejs.org/)
 
 **Step #3 :**
 
-* Fire up the terminal, enter the "flackbackend" folder, and execute this piece of snippet : `<python main.py>`
+* Fire up the terminal, enter the "flackbackend" folder, and execute this piece of snippet : `python main.py`
