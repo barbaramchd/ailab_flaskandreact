@@ -1,1 +1,3 @@
-# ailab_flaskandreact
+# Requirements
+
+* Flask
